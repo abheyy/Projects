@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(212,215,223,0.782);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+main{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    -webkit-border-radius:125px;
+    border-radius: 20px;
+    background: rgba(212,215,223,0.782);
+//-webkit-box-shadow:12px 12px 24px ;
+}
